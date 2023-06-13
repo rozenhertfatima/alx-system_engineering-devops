@@ -1,0 +1,2 @@
+#!/bin/bash
+VAR=$(expr $TRUEKNOWLEDGE+28)
