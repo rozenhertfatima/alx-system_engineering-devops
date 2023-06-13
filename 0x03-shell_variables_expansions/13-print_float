@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.13f \n" 3.14
+printf "%.3f \n" $MYNUM
